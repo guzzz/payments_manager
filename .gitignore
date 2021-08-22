@@ -1,0 +1,9 @@
+*.env
+*.pyc
+*.pyo
+*.sublime*
+**/__pycache__/*
+**/.pytest_cache/*
+
+**/test.db
+payments_manager_flask/migrations/
